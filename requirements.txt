@@ -1,5 +1,6 @@
 streamlit
 PIL
+Image
 cv2
 numpy
 
